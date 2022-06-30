@@ -1,4 +1,4 @@
-![136424](https://user-images.githubusercontent.com/98184923/176677675-ad07b8e2-d74e-4abe-a25b-f504eb4e7bf8.jpg)
+![JS Advanced - May 2022 - Certificate](https://user-images.githubusercontent.com/98184923/176678150-c6466492-f06d-447a-84cf-4253b175d01e.jpeg)
 
 # JavaScript Advanced
 
