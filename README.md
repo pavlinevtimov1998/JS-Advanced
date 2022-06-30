@@ -1,3 +1,5 @@
+![136424](https://user-images.githubusercontent.com/98184923/176677675-ad07b8e2-d74e-4abe-a25b-f504eb4e7bf8.jpg)
+
 # JavaScript Advanced
 
 ### Course Description
@@ -24,4 +26,4 @@ In the ["JavaScript Advanced"](https://softuni.bg/trainings/3217/js-advanced-jan
 * Unit testing and Error Handling
 * Classes, Prototypes and Inheritance
 
-![136424](https://user-images.githubusercontent.com/98184923/176677675-ad07b8e2-d74e-4abe-a25b-f504eb4e7bf8.jpg)
+
