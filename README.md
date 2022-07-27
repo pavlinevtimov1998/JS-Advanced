@@ -1,5 +1,3 @@
-![JS Advanced - May 2022 - Certificate](https://user-images.githubusercontent.com/98184923/176678150-c6466492-f06d-447a-84cf-4253b175d01e.jpeg)
-
 # JavaScript Advanced
 
 ### Course Description
@@ -26,4 +24,4 @@ In the ["JavaScript Advanced"](https://softuni.bg/trainings/3217/js-advanced-jan
 * Unit testing and Error Handling
 * Classes, Prototypes and Inheritance
 
-
+![JS Advanced - May 2022 - Certificate](https://user-images.githubusercontent.com/98184923/176678150-c6466492-f06d-447a-84cf-4253b175d01e.jpeg)
